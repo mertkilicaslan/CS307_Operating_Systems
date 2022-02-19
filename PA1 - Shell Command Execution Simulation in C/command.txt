@@ -1,0 +1,1 @@
+man ping | grep -A 5 -e -A > output.txt
